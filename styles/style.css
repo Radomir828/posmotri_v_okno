@@ -122,7 +122,7 @@ ol {
 }
 
 .search-form__textfield:active {
-  border: none;
+  border-color: transparent;
   outline: 1px solid #fff;
 }
 
